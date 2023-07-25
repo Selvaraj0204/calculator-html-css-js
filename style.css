@@ -1,0 +1,32 @@
+.card{
+    text-align: center;
+    border: 2px solid white;
+    width: 350px;
+    height: 120px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    padding-top: 20px;
+    background-color: rgb(111, 116, 121);
+}
+body{
+    color: black;
+    background-image: url("https://e0.pxfuel.com/wallpapers/149/259/desktop-wallpaper-web-design-web-developer-thumbnail.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.btn{
+   padding: 10px;
+}
+#num{
+    margin-left: 8px;
+    margin-bottom: 2px;
+}
+#para1{
+    margin-left: 20px;
+    margin-bottom: 2px;
+}
+#para2{
+    margin-right: 10px;
+    margin-bottom: 2px;
+}
